@@ -1,1 +1,1 @@
-Estmos sempre em busca de coisa novas assim esta sendo minha jornada em aprender Ruby 
+Estamos sempre em busca de coisa novas assim esta sendo minha jornada em aprender Ruby 
